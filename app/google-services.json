@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797992975013",
+    "project_id": "fashap-dev",
+    "storage_bucket": "fashap-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797992975013:android:b1cb527f601145984feb4c",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKOAbu4g8f96GEUI4to3eictjmJYoIExU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
